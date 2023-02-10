@@ -10,6 +10,7 @@ RENCANA PROJECT AHSAN
 - Note App
  ^ sesuatu
 - Stopwatch
+ ^ sesuatu 2
 - Ular Tangga
 - Meme Generator
 - Parallax Website
