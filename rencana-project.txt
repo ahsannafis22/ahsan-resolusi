@@ -8,7 +8,9 @@ RENCANA PROJECT AHSAN
 - Portfolio Website
 - Landing Page
 - Note App
+ ^ sesuatu
 - Stopwatch
+ ^ sesuatu 3
 - Ular Tangga
 - Meme Generator
 - Parallax Website
