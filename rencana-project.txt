@@ -7,6 +7,7 @@ RENCANA PROJECT AHSAN
   * Quiz Keislaman
 - Portfolio Website
 - Landing Page
+- Landing Page tentang Ahsan, dengan caption/deskripsi: Seorang Graphic Designer (ngakunya), yang belum jelas pula spesialisasinya apa. Dll :v
 - Note App
  ^ sesuatu
 - Stopwatch
